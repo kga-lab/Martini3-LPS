@@ -1,0 +1,23 @@
+#include "moltoppar/martini_v3.0.0.itp"
+#include "moltoppar/martini_v3.0.0_ions_v1.itp"
+#include "moltoppar/martini_v3.0.0_solvents_v1.itp"
+#include "moltoppar/LPSR1O62.itp"
+#include "moltoppar/DOPE.itp"
+#include "moltoppar/CDL1.itp"
+#include "moltoppar/DOPG.itp"
+#include "moltoppar/CA_beadtypeSD.itp"
+#include "moltoppar/POT.itp" 
+
+[ system ]
+; name
+OM
+
+[ molecules ]
+; name        number
+LPSR1O62        84
+DOPE           216
+CDL1            12
+DOPG            12 
+W           19048
+K                24
+CA               420
