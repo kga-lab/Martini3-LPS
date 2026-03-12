@@ -1,3 +1,5 @@
+;;;; Model CARDIOLIPIN in Martini-3 Developed by Rakesh K. Vaiwala
+
 [moleculetype]
 ; molname      nrex
   CDL1          1
