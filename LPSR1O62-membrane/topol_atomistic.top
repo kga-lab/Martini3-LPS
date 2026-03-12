@@ -10,9 +10,9 @@
 ; Include forcefield parameters
 #include "toppar/forcefield.itp"
 #include "toppar/LPSA.itp"
-#include "toppar/DOPE.itp"
+#include "toppar/DOPE_atomistic.itp"
 #include "toppar/TOCL1.itp"
-#include "toppar/DOPG.itp"
+#include "toppar/DOPG_atomistic.itp"
 #include "toppar/CAL.itp"
 #include "toppar/POT.itp"
 #include "toppar/TIP3.itp"
