@@ -1,0 +1,14 @@
+#include "moltoppar/martini_v3.0.0.itp"
+#include "moltoppar/martini_v3.0.0_solvents_v1.itp"
+#include "moltoppar/LIPA.itp"
+#include "moltoppar/CA_beadtypeSD.itp"
+
+[ system ]
+; name
+LIPA-symmetricmembrane
+
+[ molecules ]
+; name        number
+LIPA        144
+W           8077
+CA               288
