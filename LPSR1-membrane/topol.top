@@ -1,0 +1,14 @@
+#include "moltoppar/martini_v3.0.0.itp"
+#include "moltoppar/martini_v3.0.0_solvents_v1.itp"
+#include "moltoppar/LPSR1.itp"
+#include "moltoppar/CA_beadtypeSD.itp"
+
+[ system ]
+; name
+LPSR1-symmetricmembrane
+
+[ molecules ]
+; name        number
+LPSR1        144
+W           11543
+CA           720
